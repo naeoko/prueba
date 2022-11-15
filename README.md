@@ -1,7 +1,7 @@
 # Modificaciones 
 1.Se ha creado una rama para las modificaciones : llamado develop
 
-![imagen de la modificacion 2](img/Captura1.1.PNG)
+![imagen de la modificacion 2](img/Captura.png)
 
 2.Se ha modificado el color del titulo,
 
