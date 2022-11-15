@@ -1,8 +1,8 @@
 # Modificaciones 
-Hemos modificado el color del titulo,
+1.Hemos modificado el color del titulo,
 
-![](img/Captura1.PNG)
+![imagen de la modificacion 1](img/Captura1.1.PNG)
 
-Hemos modificado el color de los botones entre rosa y verde pastel
+2.Hemos modificado el color de los botones entre rosa y verde pastel
 
-![](img/Captura1.PNG)
+![imagen de la modifcacion](img/Captura1.PNG)
