@@ -11,4 +11,9 @@
 
 ![imagen de la modifcacion3](img/Captura1.PNG)
 
+4.Se ha modificado el estilo del titulo, añadiendo bold
+
+![imagen de la modifcacion3](img/Captura3.PNG)
+
 ver los cambios [aqui](app/src/main/res/values/color.xml)
+otros [aqui](app/src/main/res/layout/activity_main.xml)

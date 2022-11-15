@@ -6,12 +6,31 @@
         <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/drawable/ic_add_on_secondary_24dp.xml" value="0.2225" />
         <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/color_attribute_view_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_bottom_navigation.xml" value="0.34782608695652173" />
         <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_buttons.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_cards.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_checkbox.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_chips.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_dialog.xml" value="0.34782608695652173" />
         <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_drawer.xml" value="0.34782608695652173" />
         <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_fabs.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_radio_button.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_snackbar.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_switch.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_tabs.xml" value="0.34782608695652173" />
         <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_text_field.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/component_top_app_bar.xml" value="0.34782608695652173" />
         <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/drawer_header_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/fragment_component.xml" value="0.34782608695652173" />
         <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/fragment_instructions.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/fragment_theme_summary.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/label_view_layout.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/shape_attribute_view_layout.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/subsystem_color.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/subsystem_shape.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/subsystem_type.xml" value="0.34782608695652173" />
+        <entry key="..\:/Users/am5dam2/AndroidStudioProjects/MaterialWorld/MaterialThemeBuilder/app/src/main/res/layout/type_attribute_view_layout.xml" value="0.34782608695652173" />
       </map>
     </option>
   </component>
