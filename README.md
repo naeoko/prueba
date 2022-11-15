@@ -6,3 +6,5 @@
 2.Hemos modificado el color de los botones entre rosa y verde pastel
 
 ![imagen de la modifcacion](img/Captura1.PNG)
+
+ver los cambios [aqui](app/src/main/res/values/color.xml)
